@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This is a simple script to calculate two numbers.
+#This is a simple script meant to calculate two numbers.
 
 # Taking  user input
 
@@ -32,5 +32,6 @@ esac
 
 #Printing result
 echo "Result: $res"
+echo "Great Job"
 
 
